@@ -59,14 +59,12 @@ graph TD
 ```
 ### 📸 Project Screenshots
 
-![Output](1.png)
+![Output](1.jpg)
 
-![Workflow](2.png)
+![Workflow](2.jpg)
 
-![Prompt](3.png)
+![Prompt](3.jpg)
 
-![Database](4.png)
+![Database](4.jpg)
 
-![Database](5.png)
-
-![Database](6.png)
+![Database](5.jpg)
